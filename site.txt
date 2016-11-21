@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 laalalalal
+=======
+http://lalalal
+>>>>>>> modify site.txt in mastre...
 http://www.mobiletrain.org/
